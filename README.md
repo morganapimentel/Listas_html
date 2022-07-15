@@ -1,2 +1,2 @@
-#Exemplos de lista html
-
+# Exemplos de lista html
+## Repositório criado para desafio Git/GitHub
